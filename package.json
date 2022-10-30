@@ -1,0 +1,27 @@
+{
+    "name": "zwsp_codec",
+    "version": "1.0.0",
+    "description": "Encodes and decodes bytes to a zero width space string.",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SarahIsWeird/zwsp_codec.git"
+    },
+    "author": "SarahIsWeird",
+    "license": "WTFPL",
+    "bugs": {
+        "url": "https://github.com/SarahIsWeird/zwsp_codec/issues"
+    },
+    "homepage": "https://github.com/SarahIsWeird/zwsp_codec#readme",
+    "devDependencies": {
+        "mocha": "^10.1.0"
+    },
+    "keywords": [
+        "zwsp",
+        "zws",
+        "codec"
+    ]
+}
