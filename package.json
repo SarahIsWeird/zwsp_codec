@@ -23,5 +23,8 @@
         "zwsp",
         "zws",
         "codec"
-    ]
+    ],
+    "dependencies": {
+        "@types/node": "*"
+    }
 }
